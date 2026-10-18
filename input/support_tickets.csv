@@ -1,0 +1,121 @@
+Ticket ID,Created Date,Category,Priority,Status,Assigned To,Closed Date,Resolution Hours,SLA Target Hours,SLA Met
+T0001,2026-09-21 09:00,Access,Medium,Closed,Alex Morgan,2026-09-21 23:29,14.49,12,No
+T0002,2026-09-01 09:15,Software,Medium,Closed,Omar Hassan,2026-09-01 19:30,10.25,12,Yes
+T0003,2026-09-26 10:45,Network,Low,Pending,Nadia Karim,,,24,Pending
+T0004,2026-09-04 09:45,Software,High,Closed,Alex Morgan,2026-09-04 18:31,8.78,6,No
+T0005,2026-09-18 12:30,Hardware,High,Closed,Sam Lee,2026-09-18 20:20,7.84,6,No
+T0006,2026-09-13 12:45,Hardware,Medium,Closed,Sam Lee,2026-09-14 00:34,11.83,12,Yes
+T0007,2026-09-21 10:15,Software,Medium,Pending,Sam Lee,,,12,Pending
+T0008,2026-09-22 13:00,Software,Low,Closed,Nadia Karim,2026-09-22 17:39,4.65,24,Yes
+T0009,2026-09-07 18:45,Network,Critical,Closed,Nadia Karim,2026-09-07 21:50,3.09,2,No
+T0010,2026-09-14 17:45,Network,Critical,Closed,Omar Hassan,2026-09-14 20:24,2.66,2,No
+T0011,2026-09-26 18:45,Hardware,Medium,Closed,Omar Hassan,2026-09-27 10:21,15.6,12,No
+T0012,2026-09-24 09:30,Access,Medium,Closed,Sam Lee,2026-09-25 00:51,15.35,12,No
+T0013,2026-09-17 10:00,Email,Medium,Closed,Sam Lee,2026-09-17 22:40,12.68,12,No
+T0014,2026-09-17 08:30,Network,Low,Closed,Nadia Karim,2026-09-17 17:29,8.99,24,Yes
+T0015,2026-09-24 15:00,Email,Medium,Closed,Omar Hassan,2026-09-24 19:18,4.31,12,Yes
+T0016,2026-09-07 16:15,Access,Medium,Open,Nadia Karim,,,12,Pending
+T0017,2026-09-15 16:45,Software,Low,Closed,Sam Lee,2026-09-16 10:27,17.71,24,Yes
+T0018,2026-09-03 08:30,Software,Low,Open,Sam Lee,,,24,Pending
+T0019,2026-09-18 10:45,Software,Medium,Closed,Alex Morgan,2026-09-18 18:46,8.03,12,Yes
+T0020,2026-09-24 08:00,Software,High,In Progress,Alex Morgan,,,6,Pending
+T0021,2026-09-08 11:15,Hardware,Low,Closed,Omar Hassan,2026-09-08 20:30,9.25,24,Yes
+T0022,2026-09-18 09:00,Hardware,Medium,Closed,Alex Morgan,2026-09-18 22:52,13.88,12,No
+T0023,2026-09-07 14:00,Software,Low,Closed,Omar Hassan,2026-09-08 00:07,10.13,24,Yes
+T0024,2026-09-22 15:15,Software,Low,Closed,Alex Morgan,2026-09-23 12:57,21.7,24,Yes
+T0025,2026-09-28 16:15,Software,Medium,In Progress,Alex Morgan,,,12,Pending
+T0026,2026-09-20 09:15,Network,Critical,Closed,Alex Morgan,2026-09-20 11:31,2.28,2,No
+T0027,2026-09-30 12:15,Hardware,Medium,Closed,Sam Lee,2026-09-30 18:27,6.2,12,Yes
+T0028,2026-09-03 08:45,Hardware,Medium,Closed,Sam Lee,2026-09-03 12:36,3.85,12,Yes
+T0029,2026-09-08 13:30,Software,High,Open,Alex Morgan,,,6,Pending
+T0030,2026-09-22 16:30,Email,Low,In Progress,Nadia Karim,,,24,Pending
+T0031,2026-09-04 09:15,Software,Medium,Open,Sam Lee,,,12,Pending
+T0032,2026-09-22 18:30,Network,Medium,In Progress,Alex Morgan,,,12,Pending
+T0033,2026-09-03 18:45,Access,Low,Closed,Sam Lee,2026-09-04 13:40,18.93,24,Yes
+T0034,2026-09-14 16:00,Software,Critical,Open,Sam Lee,,,2,Pending
+T0035,2026-09-18 08:30,Hardware,Low,Closed,Nadia Karim,2026-09-18 20:37,12.12,24,Yes
+T0036,2026-09-12 11:15,Hardware,Medium,Closed,Omar Hassan,2026-09-12 23:44,12.49,12,No
+T0037,2026-09-06 10:45,Software,High,Closed,Omar Hassan,2026-09-06 18:14,7.49,6,No
+T0038,2026-09-26 09:45,Email,High,Closed,Omar Hassan,2026-09-26 17:43,7.97,6,No
+T0039,2026-09-22 11:45,Network,High,Pending,Nadia Karim,,,6,Pending
+T0040,2026-09-12 18:45,Hardware,High,Closed,Alex Morgan,2026-09-12 21:10,2.43,6,Yes
+T0041,2026-09-09 08:00,Hardware,Medium,In Progress,Omar Hassan,,,12,Pending
+T0042,2026-09-20 16:00,Network,Medium,Closed,Omar Hassan,2026-09-21 06:57,14.96,12,No
+T0043,2026-09-24 18:15,Network,Low,Open,Nadia Karim,,,24,Pending
+T0044,2026-09-20 13:00,Access,Medium,Closed,Omar Hassan,2026-09-21 00:45,11.76,12,Yes
+T0045,2026-09-22 14:15,Hardware,Medium,Closed,Alex Morgan,2026-09-22 19:11,4.94,12,Yes
+T0046,2026-09-11 15:45,Network,Low,Closed,Sam Lee,2026-09-12 11:13,19.47,24,Yes
+T0047,2026-09-03 11:30,Software,Low,Closed,Sam Lee,2026-09-04 15:06,27.6,24,No
+T0048,2026-09-29 18:15,Access,Medium,Closed,Sam Lee,2026-09-29 20:19,2.08,12,Yes
+T0049,2026-09-04 14:15,Software,Critical,Closed,Alex Morgan,2026-09-04 15:07,0.88,2,Yes
+T0050,2026-09-15 18:30,Email,High,Closed,Omar Hassan,2026-09-16 02:40,8.18,6,No
+T0051,2026-09-16 15:30,Access,High,Closed,Omar Hassan,2026-09-16 17:07,1.62,6,Yes
+T0052,2026-09-09 13:30,Email,Low,Closed,Omar Hassan,2026-09-10 09:51,20.35,24,Yes
+T0053,2026-09-18 15:45,Software,High,Closed,Alex Morgan,2026-09-18 19:47,4.04,6,Yes
+T0054,2026-09-12 12:45,Access,Critical,Closed,Sam Lee,2026-09-12 14:33,1.8,2,Yes
+T0055,2026-09-22 18:45,Access,High,In Progress,Alex Morgan,,,6,Pending
+T0056,2026-09-30 14:00,Software,Medium,In Progress,Sam Lee,,,12,Pending
+T0057,2026-09-02 12:45,Network,Medium,Closed,Omar Hassan,2026-09-03 04:04,15.32,12,No
+T0058,2026-09-16 08:00,Email,Medium,Open,Alex Morgan,,,12,Pending
+T0059,2026-09-25 08:15,Software,Low,Closed,Sam Lee,2026-09-25 23:05,14.84,24,Yes
+T0060,2026-09-09 13:15,Hardware,Critical,Open,Sam Lee,,,2,Pending
+T0061,2026-09-10 09:00,Email,Medium,In Progress,Omar Hassan,,,12,Pending
+T0062,2026-09-13 11:00,Hardware,High,Closed,Nadia Karim,2026-09-13 12:58,1.97,6,Yes
+T0063,2026-09-26 08:30,Hardware,High,Closed,Nadia Karim,2026-09-26 13:25,4.92,6,Yes
+T0064,2026-09-12 18:45,Hardware,Medium,Open,Nadia Karim,,,12,Pending
+T0065,2026-09-20 16:45,Network,High,Closed,Nadia Karim,2026-09-20 18:26,1.69,6,Yes
+T0066,2026-09-08 15:45,Network,Medium,Closed,Omar Hassan,2026-09-09 04:55,13.17,12,No
+T0067,2026-09-23 12:00,Network,Low,Closed,Omar Hassan,2026-09-24 03:12,15.21,24,Yes
+T0068,2026-09-16 15:00,Software,Low,Open,Nadia Karim,,,24,Pending
+T0069,2026-09-22 17:30,Network,Medium,Closed,Nadia Karim,2026-09-23 01:51,8.35,12,Yes
+T0070,2026-09-24 11:30,Software,Medium,Open,Sam Lee,,,12,Pending
+T0071,2026-09-07 11:45,Software,Medium,Open,Nadia Karim,,,12,Pending
+T0072,2026-09-04 11:30,Software,Low,Closed,Sam Lee,2026-09-04 21:21,9.86,24,Yes
+T0073,2026-09-05 18:45,Software,Low,Closed,Omar Hassan,2026-09-06 08:45,14.01,24,Yes
+T0074,2026-09-16 09:00,Network,Low,Closed,Alex Morgan,2026-09-16 15:47,6.79,24,Yes
+T0075,2026-09-08 09:45,Hardware,High,Closed,Omar Hassan,2026-09-08 17:37,7.88,6,No
+T0076,2026-09-10 17:00,Hardware,High,Pending,Sam Lee,,,6,Pending
+T0077,2026-09-21 11:30,Hardware,Low,Closed,Alex Morgan,2026-09-21 18:24,6.91,24,Yes
+T0078,2026-09-02 11:30,Hardware,High,Closed,Sam Lee,2026-09-02 17:30,6.0,6,Yes
+T0079,2026-09-30 11:45,Software,Low,Closed,Nadia Karim,2026-10-01 11:25,23.67,24,Yes
+T0080,2026-09-24 17:30,Network,Medium,Closed,Omar Hassan,2026-09-25 02:30,9.01,12,Yes
+T0081,2026-09-02 14:30,Hardware,Low,Closed,Alex Morgan,2026-09-03 18:29,27.99,24,No
+T0082,2026-09-25 10:45,Network,Medium,Closed,Omar Hassan,2026-09-25 19:37,8.88,12,Yes
+T0083,2026-09-11 13:00,Access,Medium,Open,Nadia Karim,,,12,Pending
+T0084,2026-09-22 14:00,Network,Medium,Closed,Omar Hassan,2026-09-23 03:33,13.55,12,No
+T0085,2026-09-15 14:00,Software,Medium,Open,Omar Hassan,,,12,Pending
+T0086,2026-09-25 08:15,Software,Low,Closed,Omar Hassan,2026-09-25 14:17,6.04,24,Yes
+T0087,2026-09-06 12:00,Hardware,Low,Pending,Alex Morgan,,,24,Pending
+T0088,2026-09-15 09:15,Network,High,Closed,Nadia Karim,2026-09-15 14:01,4.78,6,Yes
+T0089,2026-09-05 14:15,Email,Medium,In Progress,Alex Morgan,,,12,Pending
+T0090,2026-09-09 14:30,Email,Medium,In Progress,Nadia Karim,,,12,Pending
+T0091,2026-09-24 12:45,Access,Medium,Closed,Nadia Karim,2026-09-24 22:21,9.61,12,Yes
+T0092,2026-09-07 11:45,Software,High,Closed,Omar Hassan,2026-09-07 15:50,4.09,6,Yes
+T0093,2026-09-27 18:15,Network,Low,Closed,Nadia Karim,2026-09-28 18:59,24.74,24,No
+T0094,2026-09-15 08:15,Network,Medium,Closed,Omar Hassan,2026-09-15 13:57,5.71,12,Yes
+T0095,2026-09-03 13:45,Email,Medium,In Progress,Omar Hassan,,,12,Pending
+T0096,2026-09-28 16:00,Hardware,Low,Open,Nadia Karim,,,24,Pending
+T0097,2026-09-08 09:45,Email,High,Open,Alex Morgan,,,6,Pending
+T0098,2026-09-15 10:30,Email,Low,In Progress,Nadia Karim,,,24,Pending
+T0099,2026-09-12 13:45,Software,Medium,Closed,Sam Lee,2026-09-12 16:51,3.11,12,Yes
+T0100,2026-09-08 15:15,Software,Medium,Closed,Alex Morgan,2026-09-08 23:45,8.51,12,Yes
+T0101,2026-09-03 15:30,Email,Medium,Pending,Nadia Karim,,,12,Pending
+T0102,2026-09-15 12:15,Email,High,Closed,Omar Hassan,2026-09-15 21:11,8.94,6,No
+T0103,2026-09-27 18:45,Software,Medium,Open,Alex Morgan,,,12,Pending
+T0104,2026-09-30 17:45,Access,High,In Progress,Sam Lee,,,6,Pending
+T0105,2026-09-20 13:15,Hardware,Medium,Open,Sam Lee,,,12,Pending
+T0106,2026-09-21 09:00,Network,Medium,Closed,Sam Lee,2026-09-21 15:07,6.13,12,Yes
+T0107,2026-09-05 16:30,Hardware,Critical,In Progress,Nadia Karim,,,2,Pending
+T0108,2026-09-30 15:30,Access,Medium,Closed,Alex Morgan,2026-10-01 07:01,15.53,12,No
+T0109,2026-09-13 16:30,Software,Medium,Closed,Alex Morgan,2026-09-14 03:55,11.42,12,Yes
+T0110,2026-09-27 18:30,Software,Low,Closed,Nadia Karim,2026-09-28 20:22,25.88,24,No
+T0111,2026-09-30 12:45,Software,Low,Closed,Omar Hassan,2026-09-30 18:39,5.9,24,Yes
+T0112,2026-09-12 18:45,Hardware,High,In Progress,Alex Morgan,,,6,Pending
+T0113,2026-09-27 15:45,Email,Medium,Open,Sam Lee,,,12,Pending
+T0114,2026-09-15 15:15,Access,Low,Open,Nadia Karim,,,24,Pending
+T0115,2026-09-02 14:30,Software,Low,In Progress,Omar Hassan,,,24,Pending
+T0116,2026-09-03 18:15,Hardware,Medium,Closed,Nadia Karim,2026-09-03 22:00,3.76,12,Yes
+T0117,2026-09-25 16:15,Hardware,High,Closed,Sam Lee,2026-09-25 19:28,3.22,6,Yes
+T0118,2026-09-05 16:30,Access,Low,In Progress,Sam Lee,,,24,Pending
+T0119,2026-09-01 13:15,Hardware,Low,Closed,Sam Lee,2026-09-02 10:47,21.54,24,Yes
+T0120,2026-09-25 13:00,Network,Low,Closed,Nadia Karim,2026-09-26 03:27,14.45,24,Yes
